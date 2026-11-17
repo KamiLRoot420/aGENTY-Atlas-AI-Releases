@@ -1,6 +1,6 @@
 {
   "schema": "atlas-score-feed-v1",
-  "data_version": "1.8.3",
+  "data_version": "1.9.0",
   "generated_on": "2026-11-17",
   "files": [
     {
@@ -19,8 +19,8 @@
       "bytes": 10534
     },
     {
-      "path": "03_ZRODLA_I_METODOLOGIA/OCENY_MODELI_1.8.3.json",
-      "sha256": "ac5222ec89a9d58f405294558828cb351940da0725a8245e86ab75f8b84a02ba",
+      "path": "03_ZRODLA_I_METODOLOGIA/OCENY_MODELI_1.9.0.json",
+      "sha256": "dd595505709209613766983d31cd8fa0199a8cb26c7e906e5e5b07164fd0c486",
       "bytes": 227337
     }
   ]
