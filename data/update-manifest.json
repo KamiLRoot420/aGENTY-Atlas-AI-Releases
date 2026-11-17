@@ -1,0 +1,22 @@
+{
+  "schema": "atlas-score-feed-v1",
+  "data_version": "1.8.2",
+  "generated_on": "2026-11-17",
+  "files": [
+    {
+      "path": "03_ZRODLA_I_METODOLOGIA/WYNIKI_MODELI.json",
+      "sha256": "9c9f3f73c9e79986e7ee232258f02e477f7d9ed1a27ee4cfa319a04c0b6171e2",
+      "bytes": 24890
+    },
+    {
+      "path": "03_ZRODLA_I_METODOLOGIA/REJESTR_WERYFIKACJI_1.7.json",
+      "sha256": "e0338898ab120f592a109a937d00cc1c72deeeec08c8cc6cc4803c4fea607962",
+      "bytes": 161496
+    },
+    {
+      "path": "03_ZRODLA_I_METODOLOGIA/PARAMETRY_ENDPOINTOW_1.7.json",
+      "sha256": "450bd7e50e0967d7633936f6c778a42cc35db41a633a1e8759a6f1d31d9d399e",
+      "bytes": 10534
+    }
+  ]
+}
